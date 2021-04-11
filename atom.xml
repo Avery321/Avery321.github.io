@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-11T07:01:56.485Z</updated>
+  <updated>2021-04-11T14:28:56.922Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4月11日小记</title>
+    <link href="http://example.com/2021/04/11/4%E6%9C%8811%E6%97%A52/"/>
+    <id>http://example.com/2021/04/11/4%E6%9C%8811%E6%97%A52/</id>
+    <published>2021-04-11T14:25:00.000Z</published>
+    <updated>2021-04-11T14:28:56.922Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote><p><strong>小重山</strong></p><p>岳飞</p><p>昨夜寒蛩不住鸣。惊回千里梦，已三更。起来独自绕阶行。人悄悄，帘外月胧明。</p><p>白首为功名。旧山松竹老，阻归程。欲将心事付瑶琴。知音少，弦断有谁听？</p></blockquote><blockquote><p>许嵩</p><p>昨夜寒蛩不住鸣<br>惊回千里梦 已三更<br>起来独自绕阶行<br>人悄悄 帘外月胧明<br>白首为功名 旧山松竹老 阻归程<br>欲将心事付瑶琴<br>知音少 弦断有谁听<br>梦里披荆斩棘铮铮之铁衣<br>已乘昨夜长风随波东流去<br>城外马歇摇首顿蹄 鹏举瞰冷雨<br>只叹普天之下垂成的同庆<br>昨夜寒蛩不住鸣<br>惊回千里梦 已三更<br>起来独自绕阶行<br>人悄悄 帘外月胧明<br>白首为功名 旧山松竹老 阻归程<br>欲将心事付瑶琴<br>知音少 弦断有谁听<br>梦里披荆斩棘铮铮之铁衣<br>已乘昨夜长风随波东流去<br>城外马歇摇首顿蹄 鹏举瞰冷雨<br>只叹普天之下垂成的同庆<br>梦里披荆斩棘铮铮之铁衣<br>已乘昨夜长风随波东流去<br>城外马歇摇首顿蹄 鹏举瞰冷雨<br>只叹普天之下垂成的同庆<br>只叹普天之下垂成的同庆</p></blockquote>]]></content>
+    
+    
+    <summary type="html">《经典咏流传》许嵩演唱《昨夜书》</summary>
+    
+    
+    
+    <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活,悟" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB-%E6%82%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>4月11日小记</title>
