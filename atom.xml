@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-11T14:28:56.922Z</updated>
+  <updated>2021-04-21T14:50:51.041Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,53 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>口琴简谱收录</title>
+    <link href="http://example.com/2021/04/21/4%E6%9C%8821%E6%97%A5/"/>
+    <id>http://example.com/2021/04/21/4%E6%9C%8821%E6%97%A5/</id>
+    <published>2021-04-21T14:22:00.000Z</published>
+    <updated>2021-04-21T14:50:51.041Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>　　作为一名口琴人，手里没几个谱子怎么行？收录简谱是一项长期工作，寻找合适的“储存仓库”更是重要。本人的谱库经历了多次转移，位置从手写的笔记本到数据的手机，形式有文字有图片，但全部都是在“本地”进行，虽然这种方式很安全，但是一旦发生丢失事件那么就会前功尽弃，故决定将现存曲谱上传至互联网，实行“双轨制”，两条腿走路，以本人博客为载体，方便日后查阅曲谱。( •̀ ω •́ )✧</p>]]></content>
+    
+    
+    <summary type="html">简谱收录</summary>
+    
+    
+    
+    <category term="口琴谱库" scheme="http://example.com/categories/%E5%8F%A3%E7%90%B4%E8%B0%B1%E5%BA%93/"/>
+    
+    
+    <category term="简谱" scheme="http://example.com/tags/%E7%AE%80%E8%B0%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>4月13日小记</title>
+    <link href="http://example.com/2021/04/13/4%E6%9C%8813%E6%97%A5/"/>
+    <id>http://example.com/2021/04/13/4%E6%9C%8813%E6%97%A5/</id>
+    <published>2021-04-13T12:20:52.000Z</published>
+    <updated>2021-04-13T09:27:28.393Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote><p><em>Professor Youens :</em> You…should consider teaching. The noble act of passing on knowledge to hungry minds starving for something to pull them out of their shallow little Facebook worlds?</p><p><em>Lip :</em> I hear the pay kind of sucks.</p><p><em>Professor Youens :</em> That your objective in life?An unconscionably large paycheck?</p><p><em>Lip :</em> Yeah,sounds all right to me.Plus,you know,the student loans are piling up.</p><p><em>Professor Youens :</em> Are you even intending to repay your student loans?</p><p><em>Lip :</em> Un,no,no.Probably not.</p><p><em>Professor Youens :</em> So why not then use your talents for something more challenging than managing a hedge fund portfolio and paying off your Ferrari?Think about it.</p></blockquote><blockquote><p><em>尤恩斯教授：</em>你可以再考虑下要不要当老师。向渴望知识的人们传道解惑，并将他们从狭隘的小脸书世界解救出来的一种高尚行为吗？</p><p><em>利普：</em>我听说薪水有点低。</p><p><em>尤恩斯教授：</em>这就是你人生目标吗？昧着良心领大笔工资，</p><p><em>利普：</em>是啊，听起来对我挺不错的。还有啊，你知道的，学生贷款越来越贵。</p><p><em>尤恩斯教授：</em>你还想偿还学生贷款吗？</p><p><em>利普：</em>呃，不，也许不会。</p><p><em>尤恩斯教授：</em>那为何不把你的才能 用在一些更富挑战性的事上而不是玩弄对冲基金的投资组合，为法拉利跑车还贷上呢？再想想吧。</p></blockquote>]]></content>
+    
+    
+    <summary type="html">某美剧台词节选...</summary>
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>4月11日小记</title>
     <link href="http://example.com/2021/04/11/4%E6%9C%8811%E6%97%A52/"/>
     <id>http://example.com/2021/04/11/4%E6%9C%8811%E6%97%A52/</id>
     <published>2021-04-11T14:25:00.000Z</published>
-    <updated>2021-04-11T14:28:56.922Z</updated>
+    <updated>2021-04-11T15:13:42.761Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote><p><strong>小重山</strong></p><p>岳飞</p><p>昨夜寒蛩不住鸣。惊回千里梦，已三更。起来独自绕阶行。人悄悄，帘外月胧明。</p><p>白首为功名。旧山松竹老，阻归程。欲将心事付瑶琴。知音少，弦断有谁听？</p></blockquote><blockquote><p>许嵩</p><p>昨夜寒蛩不住鸣<br>惊回千里梦 已三更<br>起来独自绕阶行<br>人悄悄 帘外月胧明<br>白首为功名 旧山松竹老 阻归程<br>欲将心事付瑶琴<br>知音少 弦断有谁听<br>梦里披荆斩棘铮铮之铁衣<br>已乘昨夜长风随波东流去<br>城外马歇摇首顿蹄 鹏举瞰冷雨<br>只叹普天之下垂成的同庆<br>昨夜寒蛩不住鸣<br>惊回千里梦 已三更<br>起来独自绕阶行<br>人悄悄 帘外月胧明<br>白首为功名 旧山松竹老 阻归程<br>欲将心事付瑶琴<br>知音少 弦断有谁听<br>梦里披荆斩棘铮铮之铁衣<br>已乘昨夜长风随波东流去<br>城外马歇摇首顿蹄 鹏举瞰冷雨<br>只叹普天之下垂成的同庆<br>梦里披荆斩棘铮铮之铁衣<br>已乘昨夜长风随波东流去<br>城外马歇摇首顿蹄 鹏举瞰冷雨<br>只叹普天之下垂成的同庆<br>只叹普天之下垂成的同庆</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote><p><strong>小重山</strong></p><p>岳飞</p><p>昨夜寒蛩不住鸣。惊回千里梦，已三更。起来独自绕阶行。人悄悄，帘外月胧明。</p><p>白首为功名。旧山松竹老，阻归程。欲将心事付瑶琴。知音少，弦断有谁听？</p></blockquote><iframe height=498 width=510 src='http://t.cn/A6cIi7sP?m=4624895130470186&u=2175582565' frameborder=0 'allowfullscreen'></iframe><blockquote><p><strong><a href="https://weibo.com/2175582565/KarDr1YjE">昨夜书</a></strong></p><p>许嵩</p><p>昨夜寒蛩不住鸣<br>惊回千里梦 已三更<br>起来独自绕阶行<br>人悄悄 帘外月胧明<br>白首为功名 旧山松竹老 阻归程<br>欲将心事付瑶琴<br>知音少 弦断有谁听<br>梦里披荆斩棘铮铮之铁衣<br>已乘昨夜长风随波东流去<br>城外马歇摇首顿蹄 鹏举瞰冷雨<br>只叹普天之下垂成的同庆<br>昨夜寒蛩不住鸣<br>惊回千里梦 已三更<br>起来独自绕阶行<br>人悄悄 帘外月胧明<br>白首为功名 旧山松竹老 阻归程<br>欲将心事付瑶琴<br>知音少 弦断有谁听<br>梦里披荆斩棘铮铮之铁衣<br>已乘昨夜长风随波东流去<br>城外马歇摇首顿蹄 鹏举瞰冷雨<br>只叹普天之下垂成的同庆<br>梦里披荆斩棘铮铮之铁衣<br>已乘昨夜长风随波东流去<br>城外马歇摇首顿蹄 鹏举瞰冷雨<br>只叹普天之下垂成的同庆<br>只叹普天之下垂成的同庆</p></blockquote>]]></content>
     
     
     <summary type="html">《经典咏流传》许嵩演唱《昨夜书》</summary>
